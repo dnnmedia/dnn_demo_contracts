@@ -27,5 +27,21 @@ To submit changes to the main DNN demo repo, please submit a pull request. If yo
 
 Please report all bugs to the git issues section or notify the DNN community via the [DNN slack](https://slack.dnn.media/) under the #issues channel.
 
+## Social Channels
+
+Feel to reach the DNN team on any of our social channels.
+
+[Slack](http://slack.dnn.media/).
+
+[Twitter](https://twitter.com/DNN_Blockchain)
+
+[Facebook](https://www.facebook.com/DNNBlockchain/)
+
+[Reddit](https://www.reddit.com/r/DNNMedia/)
+
+[Bitcoin Talk](https://bitcointalk.org/index.php?topic=1920096.0)
+
+[Telegram](https://t.me/DNNMedia)
+
 # License
 Apache 2.0
