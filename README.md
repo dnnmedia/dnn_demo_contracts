@@ -27,7 +27,7 @@ To submit changes to the main DNN demo repo, please submit a pull request. If yo
 
 Please report all bugs to the git issues section or notify the DNN community via the [DNN slack](https://slack.dnn.media/) under the #issues channel.
 
-## Social Channels
+### Social Channels
 
 Feel to reach the DNN team on any of our social channels.
 
